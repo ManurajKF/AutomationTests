@@ -1,0 +1,20 @@
+{"compilerOptions":{
+    "target": "ES3",
+    "ignoreDeprecations": "5.0",  
+    "allowJs": true,
+    "module": "commonjs",
+    "outDir": "dit/complied",
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true
+    },
+    "include": [
+      "tests","test/OneCMS","test/Admin"],
+      "types":[  
+        "@types/jest",
+        "jest-playwright-preset"
+    ]
+
+}

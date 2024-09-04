@@ -1,0 +1,42 @@
+{
+  "Environment" : "",
+    "AppSettingsAdmin":
+    {
+
+        "AdminPreProd": { "BaseUrl": "http://beta.admin.knightfrank.com/default.aspx?cookieCheck=true" },
+        "AdminFea": { "BaseUrl": "https://admin.web.fea-knightfrank.com/?cookieCheck=true" },
+        "AdminInt": { "BaseUrl": "https://admin.web.int-knightfrank.com/?cookieCheck=true" }
+      ,
+    "Credentials" :
+    {
+      "username":"Manurajadmin",
+      "password":"Manu123"
+    }
+  },
+    "AppSettingsCMS":{
+      "BaseUrl": {
+        "BaseUrlBeta": "https://beta.knightfrank.co.uk/",
+        "BaseUrlFea": "https://gb.cms.web.fea-knightfrank.com/",
+        "BaseUrlInt": "https://gb.cms.web.int-knightfrank.com/"
+      },
+      "BaseUrlCMSAdmin": {
+        "BaseUrlCMSAdminBeta": "http://beta.admincms.knightfrank.co.uk/admin",
+        "BaseUrlCMSAdminFea": "https://admin.gb.cms.web.fea-knightfrank.com/admin",
+        "BaseUrlCMSAdminInt": "https://admin.gb.cms.web.int-knightfrank.com/admin"
+      },
+      "Credentials" :
+      {
+        "username":"manuraj.rajasekharan@knightfrank.com",
+        "password":"manuraj@1"
+      }
+
+    },
+    "AppSettingsOptimizelyCMS":{
+      "Urls": {
+        "BaseUrl": "https://kfwt02aap8ru8pprep.dxcloud.episerver.net/"
+       
+      }
+    
+
+    }
+}

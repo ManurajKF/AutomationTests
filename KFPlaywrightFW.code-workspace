@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "KnightFrank.WebPlatform.AutomationTests",
+			"path": "KnightFrank.WebPlatform.AutomationTests"
+		}
+	],
+	"settings": {}
+}
